@@ -1,0 +1,7 @@
+{
+  "name": "Veda Dental Studio - Ultra Premium Landing Page",
+  "description": "A high-fidelity React landing page for Veda Dental Studio, targeting the Indian corporate and family market with a Royal White, Deep Navy, and Gold aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
